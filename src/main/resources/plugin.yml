@@ -1,0 +1,8 @@
+name: MCoin
+version: '${project.version}'
+main: me.oyuncozucu.mcoin.MCoin
+api-version: 1.16
+softdepend: [PlaceholderAPI]
+commands:
+  mcoin:
+

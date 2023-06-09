@@ -1,0 +1,6 @@
+start-coins:
+  enable: true
+  amount: 100.0
+logs:
+  enable: true
+
